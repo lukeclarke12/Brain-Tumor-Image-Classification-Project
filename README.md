@@ -1,2 +1,2 @@
 # Brain-Tumor-Image-Classification-Project
-This is a project in which I have trained a machine learning algorithm with keras to predict whether someone has a brain tumor or not based on an MRI scan of their brain.
+This is a project in which I created an application on streamlit that can predict whether someone has a brain tumor or not based on an MRI scan of their brain. For the purposes of this project I used keras to train an image classification model.
